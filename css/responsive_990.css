@@ -1,0 +1,41 @@
+
+
+@media screen and (min-width: 700px) and (max-width: 990px){
+
+/* logo display */
+
+#logo {
+  max-width: 100%;
+  height: 100%;
+  padding: 10px;  
+  margin-bottom: -120px;
+}
+
+.resize {
+display: flex;
+}
+
+}
+
+@media screen and (min-width: 541px) and (max-width: 699px){
+
+/* logo display */
+
+#logo {
+  max-width: 100%;
+  height: 100%;
+  padding: 10px;  
+  margin-bottom: -120px;
+}
+
+.resize {
+  display: flex;
+}
+
+h6 {
+  text-align: center;  /* http://www.w3.org/Style/Examples/007/center.en.html */
+  margin-top: 0px;
+  color: #747704;
+  font-size: 8px;
+}
+}
