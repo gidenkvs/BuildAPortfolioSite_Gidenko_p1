@@ -13,3 +13,5 @@ book:
 HTML&CSS Design and build websites by JON DUCKET
 
 there might be some issues with the way the images behave when they are scaled beyond 600px. will continue to research and refine
+
+all the images and logos are created by me, Slavik Gidenko.
