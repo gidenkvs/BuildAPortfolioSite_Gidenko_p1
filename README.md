@@ -8,7 +8,7 @@ Intro to HTML and CSS, Responsive Web Design Fundamentals, Responsive Images,
 Youtube videos: https://www.youtube.com/watch?v=VcMjo_wczCc, https://www.youtube.com/watch?v=Up_NC-qGzuI,
 https://www.youtube.com/watch?v=Vafp5xr_bxk
 Grunt.com, andismith.com and google hangout meeting
-
+www.w3schools.com
 book:
 HTML&CSS Design and build websites by JON DUCKET
 
